@@ -14,11 +14,11 @@ int factorial(int n){
 }
 
 int nCr(int n, int r){
-    int numertor= factorial(n);
+    int numerator= factorial(n);
 
     int denominator = factorial(r)*factorial(n-r);
 
-    return numertor/denominator;
+    return numerator/denominator;
 
 }
 
