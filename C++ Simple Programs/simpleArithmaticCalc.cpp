@@ -8,7 +8,7 @@ int main()
     char temp;
     char op;
 
-    
+    cout<<"ARITHMATIC CALCULATOR"<<endl;
     do
     {
 
