@@ -1,3 +1,4 @@
-# DSA
+# Data Structures and Algorithms
 
-Author - Balasaheb Hinge
+Author - <b> Balasaheb Hinge </b>
+##
