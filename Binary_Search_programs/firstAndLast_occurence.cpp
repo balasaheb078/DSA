@@ -73,4 +73,8 @@ int main()
 
     int last = lastOccurence(Array, 6, 34);
     cout << "Last occurence of 34 at index " << last << endl;
+    
+    // total occurence of an element
+    int totalOccurence = (last - first) + 1;
+    cout<<"Total no of occurence of 34 is "<< totalOccurence << endl;
 }
